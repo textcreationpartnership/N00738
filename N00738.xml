@@ -116,8 +116,10 @@
    <text xml:lang="eng">
       <body>
          <div type="proclamation">
-            <pb facs="tcp:000887_0000_0FAC96CDA00B23E8" rendition="simple:additions"/>
-            <pb facs="tcp:000887_0001_0FAC96EDF0BC6CD8" rendition="simple:additions"/>
+            <pb facs="unknown:000887_0000_0FAC96CDA00B23E8"
+                rendition="simple:additions"/>
+            <pb facs="unknown:000887_0001_0FAC96EDF0BC6CD8"
+                rendition="simple:additions"/>
             <head>
                <figure/> By The Honourable <hi>John Nanfan, <abbr>Eſq</abbr>
                </hi> Lieutenant Governour and Commander in Chief of His Maj<gap reason="illegible: indecipherable" extent="1 letter">
